@@ -1,0 +1,26 @@
+.banner {
+  background-color: #29385c;
+  height: 40%;
+}
+
+/* img */
+img {
+  background-color: #29385c;
+}
+
+/* h1 */
+h1{
+    margin-bottom: 10px;
+}
+
+/* hr */
+hr{
+    border-color: #fff 4px solid !important;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.buttonColor{
+     background-color: wheat;
+     color: #111;
+}

@@ -1,0 +1,30 @@
+.addcomp1 {
+  background-color: #e3e3e3;
+  height: 30vh;
+}
+
+/* button group */
+.buttonGroup {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #ffffff;
+}
+
+/* button */
+.buttonGroup button {
+  font-size: x-large;
+  font-weight: 800;
+}
+
+/* cross design */
+.buttonGroup span {
+  font-size: 24px;
+  color: #42b574;
+  font-weight: 800;
+  margin-right: 8px;
+}
+
+/* hr div hr {
+  border-color: 3px solid black;
+} */
